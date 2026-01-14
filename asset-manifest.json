@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/villa-kamenjarka/static/css/main.5b0389da.css",
+    "main.js": "/villa-kamenjarka/static/js/main.a9caba87.js",
+    "index.html": "/villa-kamenjarka/index.html",
+    "main.5b0389da.css.map": "/villa-kamenjarka/static/css/main.5b0389da.css.map",
+    "main.a9caba87.js.map": "/villa-kamenjarka/static/js/main.a9caba87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0389da.css",
+    "static/js/main.a9caba87.js"
+  ]
+}
